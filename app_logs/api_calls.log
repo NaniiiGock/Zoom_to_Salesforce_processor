@@ -1,0 +1,650 @@
+2024-07-22 13:30:53,309 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:30:53,319 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:32:26,396 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:32:27,687 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:32:27,695 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:32:42,994 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:32:44,023 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:32:44,033 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:32:53,220 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:32:54,273 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:32:54,279 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:32:58,368 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:32:59,645 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:32:59,653 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:33:02,730 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:33:03,819 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:33:03,826 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:33:21,224 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:33:22,457 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:33:22,466 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:34:30,687 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:34:31,750 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:34:31,757 - werkzeug - INFO -  * Debugger PIN: 803-620-916
+2024-07-22 13:34:46,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 13:34:46,987 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 13:34:46,987 - __main__ - INFO - API Call Details: {"total_tokens": 3020, "prompt_tokens": 2381, "completion_tokens": 639, "total_cost": 0.002149, "total_time": 7.379693031311035, "tokens_per_second": 409.23111397541203, "cost_per_token": 0.0002912045244811789}
+2024-07-22 13:34:46,988 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 13:34:46] "POST /process HTTP/1.1" 200 -
+2024-07-22 13:40:16,882 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:40:16,882 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:40:16,882 - werkzeug - INFO -  * Restarting with stat
+2024-07-22 13:40:17,582 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:40:17,585 - werkzeug - INFO -  * Debugger PIN: 380-649-984
+2024-07-22 13:40:47,070 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 13:40:47,092 - __main__ - ERROR - Invalid data structure: Missing or invalid 'contacts' key in the result
+2024-07-22 13:40:47,092 - __main__ - ERROR - Value error: Missing or invalid 'contacts' key in the result
+2024-07-22 13:40:47,097 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 13:40:47] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2024-07-22 13:41:41,853 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:41:41,853 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:41:41,854 - werkzeug - INFO -  * Restarting with stat
+2024-07-22 13:41:42,694 - werkzeug - WARNING -  * Debugger is active!
+2024-07-22 13:41:42,698 - werkzeug - INFO -  * Debugger PIN: 380-649-984
+2024-07-22 13:42:13,304 - werkzeug - INFO -  * Detected change in '/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py', reloading
+2024-07-22 13:42:13,423 - werkzeug - INFO -  * Restarting with stat
+2024-07-22 13:42:33,980 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:42:33,980 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:42:54,522 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 13:42:54,546 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 13:42:54,547 - __main__ - INFO - API Call Details: {"total_tokens": 2650, "prompt_tokens": 2381, "completion_tokens": 269, "total_cost": 0.001594, "total_time": 4.600938081741333, "tokens_per_second": 575.9694985934358, "cost_per_token": 0.0003464510870784667}
+2024-07-22 13:42:54,547 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 13:42:54] "POST /process HTTP/1.1" 200 -
+2024-07-22 13:43:47,954 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:43:47,954 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:43:53,151 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1103aa8f0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /get_ids (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1103aa8f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 82, in process
+    ids = get_ids(participants)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 40, in get_ids
+    response = requests.post(f"{BASE_URL_SalesforceConnector}/get_ids", json={'participants': participants})
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /get_ids (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1103aa8f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-07-22 13:44:10,388 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1103aa320>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /get_ids (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1103aa320>: Failed to establish a new connection: [Errno 61] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 82, in process
+    ids = get_ids(participants)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 40, in get_ids
+    response = requests.post(f"{BASE_URL_SalesforceConnector}/get_ids", json={'participants': participants})
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /get_ids (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1103aa320>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-07-22 13:44:25,915 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:44:25,916 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:44:39,124 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 13:44:39,137 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 13:44:39,137 - __main__ - INFO - API Call Details: {"total_tokens": 2650, "prompt_tokens": 2381, "completion_tokens": 269, "total_cost": 0.001594, "total_time": 5.335412979125977, "tokens_per_second": 496.6813272688989, "cost_per_token": 0.00029875850402514144}
+2024-07-22 13:44:39,138 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 13:44:39] "POST /process HTTP/1.1" 200 -
+2024-07-22 13:48:21,978 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 13:48:21,978 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 13:48:50,891 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 13:48:50,913 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 13:48:50,913 - __main__ - INFO - API Call Details: {"total_tokens": 3027, "prompt_tokens": 2317, "completion_tokens": 710, "total_cost": 0.0022234999999999998, "total_time": 9.027060985565186, "tokens_per_second": 335.32508585467133, "cost_per_token": 0.0002463149416577012}
+2024-07-22 13:48:50,914 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 13:48:50] "POST /process HTTP/1.1" 200 -
+2024-07-22 15:15:58,099 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 15:15:58,106 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 15:15:58,107 - __main__ - INFO - API Call Details: {"total_tokens": 2628, "prompt_tokens": 2388, "completion_tokens": 240, "total_cost": 0.0015539999999999998, "total_time": 3.9323978424072266, "tokens_per_second": 668.2945381719728, "cost_per_token": 0.0003951787337592259}
+2024-07-22 15:15:58,107 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:15:58] "POST /process HTTP/1.1" 200 -
+2024-07-22 15:48:18,822 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:8083
+2024-07-22 15:48:18,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 15:49:25,963 - OpenIAClient - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask_limiter/extension.py", line 1303, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/models/OpenIAClient.py", line 67, in register
+    hashed_password = generate_password_hash(password, method='sha256')
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/werkzeug/security.py", line 105, in generate_password_hash
+    h, actual_method = _hash_internal(method, salt, password)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/werkzeug/security.py", line 70, in _hash_internal
+    raise ValueError(f"Invalid hash method '{method}'.")
+ValueError: Invalid hash method 'sha256'.
+2024-07-22 15:49:25,966 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:49:25] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2024-07-22 15:51:46,382 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:8083
+2024-07-22 15:51:46,382 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 15:51:52,657 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:51:52] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 15:52:08,422 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:52:08] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 15:56:22,365 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:56:22] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 15:57:27,160 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:57:27] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 15:57:34,236 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 15:57:34] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:39:01,564 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:39:01] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:39:26,414 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:8083
+2024-07-22 16:39:26,415 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 16:39:36,642 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:39:36] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 16:39:45,006 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:39:45] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:40:10,459 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:40:10] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:40:16,633 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:40:16] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:40:26,803 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:8083
+2024-07-22 16:40:26,805 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 16:40:33,485 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:40:33] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 16:40:39,421 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:40:39] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2024-07-22 16:42:54,953 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:42:54] "POST /login HTTP/1.1" 200 -
+2024-07-22 16:43:46,679 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 16:43:46] "POST /login HTTP/1.1" 200 -
+2024-07-22 17:13:51,808 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:13:51,809 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:14:40,388 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:14:40] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:14:40,390 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:31:35,843 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:31:35] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:31:35,846 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:34:14,495 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:34:14] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:34:14,496 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:34:58,222 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:34:58,222 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:35:06,838 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:35:06] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:35:06,839 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:35:23,888 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:35:23] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:35:23,890 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:35:42,466 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:35:42] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 17:35:42,467 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 162, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 146, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 17:35:48,011 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:35:48,012 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:37:23,043 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:37:23,043 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:40:12,900 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:40:12,900 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:41:43,330 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1084cb280>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /get_participants (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084cb280>: Failed to establish a new connection: [Errno 61] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 81, in process
+    participants = get_participants(zoom_json_file)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 58, in get_participants
+    response = requests.post(f"{BASE_URL_ZoomMeeting}/get_participants", json=json_data)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /get_participants (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084cb280>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-07-22 17:41:52,492 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1084fd2a0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /get_participants (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084fd2a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 81, in process
+    participants = get_participants(zoom_json_file)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 58, in get_participants
+    response = requests.post(f"{BASE_URL_ZoomMeeting}/get_participants", json=json_data)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /get_participants (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084fd2a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-07-22 17:42:10,637 - __main__ - INFO - Info message from the home route
+2024-07-22 17:42:10,638 - __main__ - WARNING - Warning message from the home route
+2024-07-22 17:42:10,638 - __main__ - ERROR - Error message from the home route
+2024-07-22 17:42:10,638 - __main__ - CRITICAL - Critical message from the home route
+2024-07-22 17:42:22,871 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:42:22,872 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:42:44,763 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 17:42:44,777 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 17:42:44,777 - __main__ - INFO - API Call Details: {"total_tokens": 2677, "prompt_tokens": 2388, "completion_tokens": 289, "total_cost": 0.0016275, "total_time": 3.4061460494995117, "tokens_per_second": 785.9322416293188, "cost_per_token": 0.00047781274682544506}
+2024-07-22 17:42:44,777 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 17:42:44] "POST /process HTTP/1.1" 200 -
+2024-07-22 17:57:11,059 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:57:11,059 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 17:58:44,126 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 17:58:44,127 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:03:13,283 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:03:13,284 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:14:02,724 - __main__ - INFO - Info message from the home route
+2024-07-22 18:14:02,725 - __main__ - WARNING - Warning message from the home route
+2024-07-22 18:14:02,725 - __main__ - ERROR - Error message from the home route
+2024-07-22 18:14:02,725 - __main__ - CRITICAL - Critical message from the home route
+2024-07-22 18:14:18,273 - __main__ - INFO - Info message from the home route
+2024-07-22 18:14:18,274 - __main__ - WARNING - Warning message from the home route
+2024-07-22 18:14:18,274 - __main__ - ERROR - Error message from the home route
+2024-07-22 18:14:18,274 - __main__ - CRITICAL - Critical message from the home route
+2024-07-22 18:14:26,721 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:14:26,721 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:14:32,415 - __main__ - INFO - Info message from the home route
+2024-07-22 18:14:32,416 - __main__ - WARNING - Warning message from the home route
+2024-07-22 18:14:32,416 - __main__ - ERROR - Error message from the home route
+2024-07-22 18:14:32,416 - __main__ - CRITICAL - Critical message from the home route
+2024-07-22 18:19:43,208 - __main__ - INFO - Loaded SECRET_KEY (first 5 chars): 03332
+2024-07-22 18:19:43,208 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:19:43,208 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:25:18,244 - __main__ - INFO - Loaded SECRET_KEY (first 5 chars): 03332
+2024-07-22 18:25:18,513 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://localhost:8082
+2024-07-22 18:25:18,513 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:25:34,945 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:25:34] "[31m[1mGET /register HTTP/1.1[0m" 405 -
+2024-07-22 18:25:39,897 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:25:39] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 18:26:19,178 - __main__ - INFO - Generated token for user testuser: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwiZXhwIjoxNzIxNjY5MTc5fQ.DGYoXMXSvCLQTQr25LC4awjjsbRcnQ05RFdImx39eus
+2024-07-22 18:26:19,179 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:26:19] "POST /login HTTP/1.1" 200 -
+2024-07-22 18:26:45,606 - __main__ - INFO - Received Authorization header: Basic dGVzdHVzZXI6VGVzdFBhc3N3b3JkMTIz
+2024-07-22 18:26:45,607 - __main__ - INFO - Parsed token: Basic dGVzdHVzZXI6VGVzdFBhc3N3b3JkMTIz
+2024-07-22 18:26:45,607 - __main__ - INFO - Attempting to decode token with SECRET_KEY: 03332...
+2024-07-22 18:26:45,607 - __main__ - ERROR - Invalid token error: Not enough segments
+2024-07-22 18:26:45,607 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:26:45] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:28:20,126 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:28:20] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 18:28:36,267 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:28:36] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-07-22 18:29:00,982 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:29:00] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-07-22 18:29:14,338 - __main__ - INFO - Generated token for user testuser3: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyMyIsImV4cCI6MTcyMTY2OTM1NH0.v-OnHfzhtnPMgZa2UX9QnZXXor-B6fVCQQzMDDahklg
+2024-07-22 18:29:14,340 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:29:14] "POST /login HTTP/1.1" 200 -
+2024-07-22 18:29:46,301 - __main__ - INFO - Received Authorization header: Basic dGVzdHVzZXIzOlRlc3RQYXNzd29yZDEyMw==
+2024-07-22 18:29:46,302 - __main__ - INFO - Parsed token: Basic dGVzdHVzZXIzOlRlc3RQYXNzd29yZDEyMw==
+2024-07-22 18:29:46,302 - __main__ - INFO - Attempting to decode token with SECRET_KEY: 03332...
+2024-07-22 18:29:46,302 - __main__ - ERROR - Invalid token error: Not enough segments
+2024-07-22 18:29:46,303 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:29:46] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:35:54,648 - __main__ - INFO - Loaded SECRET_KEY (first 5 chars): 03332
+2024-07-22 18:35:54,649 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:35:54,649 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:36:07,465 - __main__ - INFO - Received Authorization header: Basic dGVzdHVzZXIzOlRlc3RQYXNzd29yZDEyMw==
+2024-07-22 18:36:07,465 - __main__ - INFO - Parsed token: Basic dGVzdHVzZXIzOlRlc3RQYXNzd29yZDEyMw==
+2024-07-22 18:36:07,465 - __main__ - INFO - Attempting to decode token with SECRET_KEY: 03332...
+2024-07-22 18:36:07,466 - __main__ - ERROR - Invalid token error: Not enough segments
+2024-07-22 18:36:07,467 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:36:07] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:36:36,496 - __main__ - INFO - Loaded SECRET_KEY (first 5 chars): 03332
+2024-07-22 18:36:36,497 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:36:36,497 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:36:36,505 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8082
+2024-07-22 18:36:36,505 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:36:39,053 - werkzeug - ERROR - 127.0.0.1 - - [22/Jul/2024 18:36:39] code 400, message Bad request version ('À\x13À')
+2024-07-22 18:36:39,053 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:36:39] "[35m[1m\x16\x03\x01\x02\x06\x01\x00\x02\x02\x03\x03§\x89µ\x06êÓ¥Ì?­{°@\x99?Rz£ªÎ\x10\x88ÐJïnÔ|\x03\x1fÜ÷ ¯\x95Ï-©xY\x15U½ö°\x81ÌÚª\x12ò\x927ô\x1b'|HC&X×küÒ\x00$\x13\x01\x13\x02\x13\x03À/À+À0À,Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+2024-07-22 18:36:50,893 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:36:50] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:36:50,896 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask_limiter/extension.py", line 1303, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 200, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 173, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 18:36:50,900 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:36:50] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2024-07-22 18:37:04,063 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:37:04] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:37:04,066 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask_limiter/extension.py", line 1303, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 200, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 173, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 18:37:04,066 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:37:04] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2024-07-22 18:38:29,493 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:38:29] "[31m[1mPOST /process HTTP/1.1[0m" 401 -
+2024-07-22 18:38:29,496 - main - ERROR - Exception on /process [POST]
+Traceback (most recent call last):
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/.venv/lib/python3.10/site-packages/flask_limiter/extension.py", line 1303, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 200, in process
+    result = processing(webvtt_file, zoom_json_file, contacts_details)
+  File "/Users/lilianagocko/Downloads/Tech task - Revenue Grid/main.py", line 173, in processing
+    updated_contacts = result['updated_contacts']
+KeyError: 'updated_contacts'
+2024-07-22 18:38:29,498 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:38:29] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2024-07-22 18:38:47,897 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8083
+2024-07-22 18:38:47,897 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:38:47,901 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8082
+2024-07-22 18:38:47,901 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 18:39:01,334 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-22 18:39:01,360 - __main__ - INFO - Processed meeting data from example/transcript.webvtt and example/zoom_meeting.json
+2024-07-22 18:39:01,360 - __main__ - INFO - API Call Details: {"total_tokens": 2666, "prompt_tokens": 2388, "completion_tokens": 278, "total_cost": 0.001611, "total_time": 3.819736957550049, "tokens_per_second": 697.9538197598697, "cost_per_token": 0.0004217567905600713}
+2024-07-22 18:39:01,361 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:39:01] "POST /process HTTP/1.1" 200 -
+2024-07-22 18:39:03,391 - werkzeug - INFO - 127.0.0.1 - - [22/Jul/2024 18:39:03] "POST /process HTTP/1.1" 200 -

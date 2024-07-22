@@ -1,0 +1,69 @@
+{
+    "meeting_analysis": {
+        "contacts": [
+            {
+                "FirstName": "Jane",
+                "LastName": "Smith",
+                "Title": "Presenter",
+                "Company": "Tech Innovations",
+                "Email": "jane.smith@techinnovations.com",
+                "Phone": "",
+                "MobilePhone": "",
+                "Department": "",
+                "MailingAddress": {
+                    "street": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": null
+                },
+                "Description": "Key contact from Tech Innovations for Revenue Grid sales operations discussion",
+                "LeadSource": "Meeting attendee"
+            },
+            {
+                "FirstName": "Mark",
+                "LastName": "Lee",
+                "Title": "Participant",
+                "Company": "Tech Innovations",
+                "Email": "mark.lee@techinnovations.com",
+                "Phone": "",
+                "MobilePhone": "",
+                "Department": "",
+                "MailingAddress": {
+                    "street": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": null
+                },
+                "Description": "VP of Sales at Tech Innovations interested in Revenue Grid solutions",
+                "LeadSource": "Meeting attendee"
+            },
+            {
+                "FirstName": "Susan",
+                "LastName": "Choi",
+                "Title": "Participant",
+                "Company": "Tech Innovations",
+                "Email": "susan.choi@techinnovations.com",
+                "Phone": "",
+                "MobilePhone": "",
+                "Department": "Sales",
+                "MailingAddress": {
+                    "street": null,
+                    "city": null,
+                    "state": null,
+                    "postalCode": null,
+                    "country": null
+                },
+                "Description": "Sales Manager at Tech Innovations looking for tools to streamline operations",
+                "LeadSource": "Meeting attendee"
+            }
+        ]
+    },
+    "api_call_details": {
+        "total_tokens": 2322,
+        "prompt_tokens": 2010,
+        "completion_tokens": 312,
+        "total_cost": 0.001473
+    }
+}
