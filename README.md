@@ -82,7 +82,10 @@ Content-Type: application/json
 
 
 
-## Examples:
+## Example:
+
+![img](example/example_result.jpg)
+![img](example/example_logs.jpg)
 
 
 ## Future Improvements:
