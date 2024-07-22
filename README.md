@@ -84,8 +84,8 @@ Content-Type: application/json
 
 ## Example:
 
-![img](example/example_result.jpg)
-![img](example/example_logs.jpg)
+![img](example/example_result.png)
+![img](example/example_logs.png)
 
 
 ## Future Improvements:
