@@ -101,3 +101,17 @@ Content-Type: application/json
 - add caching for logs
 
 
+
+UPD:
+
+to test updated version of OpenAIClient analyzer, run:
+
+```zsh
+python test_program.py
+```
+
+
+result example:
+
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/ecdb854a-93de-4929-b5fc-5b9816ea9ed9">
+
