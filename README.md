@@ -102,16 +102,22 @@ Content-Type: application/json
 
 
 
-UPD:
+## UPD:
 
 to test updated version of OpenAIClient analyzer, run:
 
 ```zsh
-python test_program.py
+python test_program_upd.py
 ```
 
+### Features added:
+- expected schema represented in a function
+- system prompt
+- text chunking
+- analysis and data extraction even with empty starting contacts (allows to manage new contacts creating in a different ways)
 
-result example:
+### Result example:
 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/ecdb854a-93de-4929-b5fc-5b9816ea9ed9">
 
+P.S. not integrated into the whole program, but represents the possible changes in LLM usage 
